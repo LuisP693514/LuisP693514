@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=LuisP693514&style=flat-square&color=blue" alt=""/>
+
+Hi there 👋
+
+My name is Luis Perez and I am a software engineer. 
+
+  <a href="https://www.linkedin.com/in/luis-perez-5baa4695/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <!--
 **LuisP693514/LuisP693514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
